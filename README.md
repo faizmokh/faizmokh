@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Faiz's github stats](https://github-readme-stats.vercel.app/api?username=faizmokhtar&count_private=true)
+[![Faiz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizmokhtar)](https://github.com/faizmokhtar/github-readme-stats)
