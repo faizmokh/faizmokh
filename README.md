@@ -9,7 +9,7 @@
 - I am currently learning cloud and backend development to be a [T-shaped developer](https://en.wikipedia.org/wiki/T-shaped_skills)
 - I find joy in finding possible ways to automate my team workflows
 - I like working in a diverse team
-- I am open for new opportunities outside of Malaysia
+- I am open for new opportunities outside of Malaysia 🛫
 
 
 <h5 align="center">You can follow me here</h5>
