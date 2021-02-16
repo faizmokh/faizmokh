@@ -1,10 +1,10 @@
 ### Yo! I'm Faiz (🗣 far-east)
 
 - I am a software engineer based in Kuala Lumpur, Malaysia 🇲🇾
-- I am currently working at [AirAsia](https://www.airasia.com/en/gb) as Software Engineer 2
 - I have experiences in both native and hybrid mobile development framework
     - Swift, Objective-C, SwiftUI and UIKit framework
     - React Native (0.41 ~ 0.46)
+    - Currently exploring Dart & Flutter
 - I have freelance and work experiences in backend development with Go
 - I am currently learning cloud and backend development to be a [T-shaped developer](https://en.wikipedia.org/wiki/T-shaped_skills)
 - I find joy in finding possible ways to automate my team workflows
